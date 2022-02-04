@@ -129,4 +129,5 @@ public class CinemaRoomManager {
         currentIncome += price;
         return price;
     }
+    
 }

@@ -1,4 +1,3 @@
-package com.alex;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -130,6 +129,4 @@ public class CinemaRoomManager {
         currentIncome += price;
         return price;
     }
-
-
 }
